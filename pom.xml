@@ -8,5 +8,12 @@
     <artifactId>03-springboot-dubbo-interface</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.hxyc</groupId>
+            <artifactId>hxyc-common</artifactId>
+            <version>0.0.1-RELEASE</version>
+        </dependency>
+    </dependencies>
 
 </project>
